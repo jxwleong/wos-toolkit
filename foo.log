@@ -1,29 +1,16 @@
-﻿2022-02-12 19:11:43.687 DEBUG [6572] [main@95] Current Logical Processor: 6
-
-2022-02-12 19:11:43.688 DEBUG [6572] [main@98] Setting process affinity to logical processor 7
-
-2022-02-12 19:11:43.689 DEBUG [6572] [main@100] Current Logical Processor:7
-
-2022-02-12 19:11:43.689 DEBUG [6572] [main@102] Number of Logical Processor: 8
-
-2022-02-12 19:12:06.637 DEBUG [16448] [main@95] Current Logical Processor: 4
-2022-02-12 19:12:06.638 DEBUG [16448] [main@98] Setting process affinity to logical processor 7
-
-2022-02-12 19:12:06.638 DEBUG [16448] [main@100] Current Logical Processor: 7
-2022-02-12 19:12:06.638 DEBUG [16448] [main@102] Number of Logical Processor: 8
-2022-02-12 19:12:17.675 DEBUG [13104] [main@95] Current Logical Processor: 3
-2022-02-12 19:12:17.676 DEBUG [13104] [main@98] Setting process affinity to logical processor 7
-2022-02-12 19:12:17.676 DEBUG [13104] [main@100] Current Logical Processor: 7
-2022-02-12 19:12:17.677 DEBUG [13104] [main@102] Number of Logical Processor: 8
-2022-02-12 19:16:30.011 DEBUG [16776] [main@95] Current Logical Processor: 4
-2022-02-12 19:16:30.014 DEBUG [16776] [main@98] Setting process affinity to logical processor 7
-2022-02-12 19:16:30.014 DEBUG [16776] [main@100] Current Logical Processor: 7
-2022-02-12 19:16:30.014 DEBUG [16776] [main@102] Number of Logical Processor: 8
-2022-02-12 19:16:53.002 DEBUG [16368] [main@95] Current Logical Processor: 6
-2022-02-12 19:16:53.002 DEBUG [16368] [main@98] Setting process affinity to logical processor 7
-2022-02-12 19:16:53.002 DEBUG [16368] [main@100] Current Logical Processor: 7
-2022-02-12 19:16:53.002 DEBUG [16368] [main@102] Number of Logical Processor: 8
-2022-02-12 19:18:02.080 DEBUG [15056] [main@95] Current Logical Processor: 2
-2022-02-12 19:18:02.080 DEBUG [15056] [main@98] Setting process affinity to logical processor 7
-2022-02-12 19:18:02.080 DEBUG [15056] [main@100] Current Logical Processor: 7
-2022-02-12 19:18:02.080 DEBUG [15056] [main@102] Number of Logical Processor: 8
+﻿2022-02-12 20:15:01.206 DEBUG [7744] [main@91] Current Logical Processor: 2
+2022-02-12 20:15:01.206 DEBUG [7744] [main@94] Setting process affinity to logical processor 7
+2022-02-12 20:15:01.206 DEBUG [7744] [main@96] Current Logical Processor: 7
+2022-02-12 20:15:01.206 DEBUG [7744] [main@98] Number of Logical Processor: 8
+2022-02-12 20:15:10.053 DEBUG [9728] [main@91] Current Logical Processor: 2
+2022-02-12 20:15:10.053 DEBUG [9728] [main@94] Setting process affinity to logical processor 7
+2022-02-12 20:15:10.053 DEBUG [9728] [main@96] Current Logical Processor: 7
+2022-02-12 20:15:10.053 DEBUG [9728] [main@98] Number of Logical Processor: 8
+2022-02-13 19:11:37.112 DEBUG [14896] [main@91] Current Logical Processor: 2
+2022-02-13 19:11:37.114 DEBUG [14896] [main@94] Setting process affinity to logical processor 7
+2022-02-13 19:11:37.114 DEBUG [14896] [main@96] Current Logical Processor: 7
+2022-02-13 19:11:37.115 DEBUG [14896] [main@98] Number of Logical Processor: 8
+2022-02-13 19:11:57.122 DEBUG [5964] [main@91] Current Logical Processor: 0
+2022-02-13 19:11:57.122 DEBUG [5964] [main@94] Setting process affinity to logical processor 7
+2022-02-13 19:11:57.150 DEBUG [5964] [main@96] Current Logical Processor: 7
+2022-02-13 19:11:57.150 DEBUG [5964] [main@98] Number of Logical Processor: 8

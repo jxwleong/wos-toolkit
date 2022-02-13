@@ -53,7 +53,7 @@ size_t NumberOfSystemCores() noexcept {
 // Initailize logger
 // For more info, https://github.com/SergiusTheBest/plog#readme
 void plog_init(){
-    plog::init(plog::debug, "foo.log");
+    plog::init(plog::debug, "foo.log", 0, 0);
     static plog::ConsoleAppender<plog::MessageOnlyFormatter> consoleAppender;
     plog::init(plog::debug, &consoleAppender);
 }
@@ -84,10 +84,6 @@ int main(){
     HANDLE currentProcessHandle;
     DWORD currentLogicalProcessor;
     DWORD_PTR processAffinityMask;
-
-    PDWORD temp;
-    PSYSTEM_LOGICAL_PROCESSOR_INFORMATION *ptr;
-    PSYSTEM_LOGICAL_PROCESSOR_INFORMATION temp2;
     
     plog_init();
     currentProcessHandle = GetCurrentProcess();
