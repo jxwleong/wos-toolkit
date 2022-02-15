@@ -1,3 +1,4 @@
+// http://matrix207.github.io/2012/09/16/winio-sample/
 #include <cstdio>
 #include <stdio.h>
 #include <stdint.h>  // To use uint64_t
